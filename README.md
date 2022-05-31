@@ -12,6 +12,8 @@ A Very Good Project created by Very Good CLI.
 
 ## Getting Started 🚀
 
+https://github.com/jafarmirzaei/very_good_adventures
+
 This project contains 3 flavors:
 
 - development

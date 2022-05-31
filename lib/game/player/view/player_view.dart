@@ -8,6 +8,7 @@ class PlayerView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final gear = context.select((PlayerBloc bloc) => bloc.state.gear);
+
     return Column(
       children: [
         Container(
